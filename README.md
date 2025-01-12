@@ -31,4 +31,3 @@ pwsh teams.ps1
 ```
 
 Now you're ready to add multiple members to your Teams!
-```
